@@ -1,0 +1,54 @@
+body {
+    min-height:  100vh;
+    background: antiquewhite;
+}
+
+header {
+    background: navy;
+    color: white;
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
+#centered-textbox {
+    text-align: center;
+}
+
+.custom-card-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-button {
+    background: navy;
+    width: 98%;
+    color: white;
+}
+
+.custom-button:hover {
+    color:blueviolet;
+}
+
+.custom-table {
+    background: white;
+}
+
+.custom-table-head {
+    background: lightsalmon;
+}
+
+.custom-card-header {
+    background: navy;
+    color: white;
+}
+
+.project-late {
+    color: red;
+}
+
+.project-today {
+    color: blue;
+}
+
